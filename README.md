@@ -1,2 +1,1 @@
-# comunicacao_interna
- Comunicação interna para liberação de venda
+Utilizando a API do Telegram, desenvolvi este projeto para auxiliar na comunicação entre os gerentes de lojas e a diretoria no empresa Balaroti
