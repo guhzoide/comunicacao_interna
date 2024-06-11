@@ -1,5 +1,5 @@
 import cx_Oracle
-import psycopg2
+import psycopg2 
 import mysql.connector
 from telebot import TeleBot
 from bin.configs import DB_CONFIG, NOME_POSTGRES, USUARIO_POSTGRES, SENHA_POSTGRES, HOST_POSTGRES, PORT_POSTGRES, TOKEN_BOT_SOLICITA
